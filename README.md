@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **kkkimar/kkkimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
